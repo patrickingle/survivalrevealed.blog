@@ -26,7 +26,7 @@
     <div class="card">
       <h2>About</h2>
       <!--div class="fakeimg" style="height:100px;">Image</div-->
-      <p><?php //echo get_bloginfo('description'); ?></p>
+      <p></p>
     </div>
     <div class="card">
       <h3>Popular Post(s)</h3>
@@ -43,8 +43,13 @@
 </div>
 
 <div class="footer">
-  <h2>&copy; 2018-<span id="year"></span>span> by <a href="https://patrickingle.info" style="text-decoration:none;" target="_blank">Patrick O. Ingle</a> All rights reserved.</h2>
+  <h2>&copy; 2018-<span id="year"></span> by <a href="https://patrickingle.info" style="text-decoration:none;" target="_blank">Patrick O. Ingle</a> All rights reserved.</h2>
   <h5>Built from <a href="https://www.w3schools.com/howto/howto_css_blog_layout.asp" style="text-decoration:none;" target="_blank">w3schools.com</a></h5>
 </div> 
+        <script>
+            window.onload = function() {
+                document.getElementById("year").innerHTML = new Date().getFullYear();
+            }
+        </script>
    </body>
 </html>
