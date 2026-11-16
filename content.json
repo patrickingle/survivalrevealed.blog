@@ -1,0 +1,158 @@
+{
+  "site": {
+    "title": "Survival Revealed",
+    "url": "https://survivalrevealed.blog",
+    "description": "Survival Revealed originally created as a pamphlet in 1989...",
+    "language": "en-US",
+    "wxr_version": "1.2"
+  },
+  "authors": [
+    {
+      "id": 1,
+      "login": "phkcorporation@gmail.com",
+      "email": "phkcorporation@gmail.com",
+      "display_name": "phkcorporation@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "slug": "autos",
+      "name": "Autos",
+      "description": "Automobiles, trucks, suv, etc."
+    },
+    {
+      "id": 5,
+      "slug": "financial",
+      "name": "Financial",
+      "description": "Financial-related topics"
+    },
+    {
+      "id": 4,
+      "slug": "grocery",
+      "name": "Grocery",
+      "description": "Grocery, Home-Cooking"
+    },
+    {
+      "id": 6,
+      "slug": "law",
+      "name": "Law",
+      "description": "Law-related"
+    },
+    {
+      "id": 1,
+      "slug": "miscellaneous",
+      "name": "Miscellaneous",
+      "description": "Other categories not listed"
+    },
+    {
+      "id": 3,
+      "slug": "shopping",
+      "name": "Shopping",
+      "description": "Online, Local, International"
+    }
+  ],
+  "tags": [
+    {
+      "id": 7,
+      "slug": "car-financing",
+      "name": "car financing"
+    },
+    {
+      "id": 8,
+      "slug": "avoid-hard-inquiries",
+      "name": "avoid hard inquiries"
+    },
+    {
+      "id": 9,
+      "slug": "autonavigator-com",
+      "name": "autonavigator.com"
+    },
+    {
+      "id": 10,
+      "slug": "wholesale-tradelines",
+      "name": "wholesale tradelines"
+    }
+  ],
+  "posts": [
+    {
+      "id": 4,
+      "title": "Buying a Used Automobile",
+      "slug": "buying-a-used-automobile",
+      "type": "post",
+      "status": "publish",
+      "author": "patrick.ingle@gmail.com",
+      "url": "https://survivalrevealed.blog/buying-a-used-automobile/",
+      "published": "2018-09-26 21:50:43",
+      "excerpt": "When you want to buy used instead of new, here are tips for buying a used automobile. Keep in mind that lemon laws only affect new vehicles.",
+      "content": "The following are tips the buyer can perform while checking a used car before taking the car to a mechanic.
+
+Before starting:
+<ol>
+ 	<li>Remove radiator cap and smell the cap for oil, if oil smell is present, could be an oil leak</li>
+ 	<li>Check for bubbles on the radiator cap</li>
+ 	<li>Check the oil dip stick for discolorization, if dip stick is new or recently replaced, the seller could be hiding a problem.</li>
+</ol>
+Starting up:
+<ol>
+ 	<li>Have seller start up vehicle while the buyer is standing behind and looking at the exhaust pipe, check for the smoke color and density, if black or green, could be a problem. If density of smoke is thick, car has been sitting.</li>
+ 	<li>Check for water coming from exhaust pipe</li>
+</ol>",
+      "categories": [
+        "Autos",
+        "Shopping"
+      ],
+      "meta": {
+        "_edit_last": "1",
+        "bloglayout_post_views_count": "67"
+      }
+    },
+    {
+      "id": 6,
+      "title": "About",
+      "slug": "about",
+      "type": "page",
+      "status": "publish",
+      "author": "patrick.ingle@gmail.com",
+      "url": "https://survivalrevealed.blog/about/",
+      "published": "2018-09-27 08:01:33",
+      "content": "Survival Revealed was conceived in 1989 while volunteering as a counselor/mentor through an ex-offender re-entry program called <a href="https://transitioninc.org/" target="_blank" rel="noopener noreferrer">Transitions Inc</a>. The goal of this publication to help ex-offenders with useful tips in navigating they way through the complex maze known as society. Many of those original tips were incorporated into the <a href="https://www.miamidade.gov/corrections/library/reentry-resource-guide.pdf" target="_blank" rel="noopener noreferrer">Miami-Dade County Department of Corrections Re-entry Resource Guide</a>.
+
+In 2018, survivalrevealed.blog is created to provide a dynamic source of helpful information.
+
+Revenue from <strong>SURVIVALREVEALED.BLOG</strong>:
+
+Revenue is generated from the sources;
+<ul>
+ 	<li>Google Adsense (strategically placed advertisements that complement your reading but does not clutter or distract)</li>
+ 	<li>Comment Author subscriptions (comment posting is NOT free but requires download of a paid application from the app stores)</li>
+ 	<li>Annual Edition published on Amazon and Barnes &amp; Noble (allowing you to read the tips in an offline environment using your Kindle or Nook enabled device)</li>
+ 	<li>Display advertisement pages within the Annual Edition.</li>
+</ul>",
+      "categories": [],
+      "meta": {
+        "_edit_last": "1"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Dollar Store Shopping at the Main Stream Supermarket",
+      "slug": "dollar-store-shopping-at-the-main-stream-supermarket",
+      "type": "post",
+      "status": "publish",
+      "author": "patrick.ingle@gmail.com",
+      "url": "https://survivalrevealed.blog/dollar-store-shopping-at-the-main-stream-supermarket/",
+      "published": "2018-09-27 08:10:06",
+      "content": "The Dollar store whether that is Dollar Tree, Family Dollar, Dollar General or your independently owned, has great deals on products that you use everyday and should be your first choice, especially if you are on a budget. Did you know that the main stream supermarkets like Publix, Winn-Dixie, Albertsons, Stop-n-Shop, Hannaford, Food Emporium, Whole Foods, Walmart, etc., have many items that are $1 or less? If you main stream supermarket is closer to you than the Dollar store, you may wish to consider shopping these stores for items that you need that are less than $1. As well as for your fresh vegetables.",
+      "excerpt": "When you can shop at the dollar store, there are many items available in your supermarket that is priced at or below a dollar?",
+      "categories": [
+        "Grocery",
+        "Shopping"
+      ],
+      "meta": {
+        "_edit_last": "1",
+        "bloglayout_post_views_count": "121"
+      }
+    }
+  ]
+}
